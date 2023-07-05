@@ -4,7 +4,7 @@ Script hack facebook dan instagram
 # -*- coding: UTF-8 -*-
 # Mod by: ADIATMAWASARA
 # team: life of programmer
-
+# xteam : Hacco7,Anco7, lordShif
 
 import os
 import sys
@@ -15,7 +15,7 @@ import mechanize
 
 wd = "\033[90;1m" # dark
 GL = "\033[96;1m" # Blue aqua
-BB = "\033[34;1m" # Blue light
+BB = "\033[34;1m" # Blue
 YY = "\033[33;1m" # Yellow light
 GG = "\033[32;1m" # Green light
 WW = "\033[0;1m"  # White light
@@ -44,15 +44,15 @@ def banner():
     runntxt(GL+"                   UDH COLY BLM")
     runntxt(GG+"     ..........     MANDI DULU SANA")
     runntxt(Y+"    ............       DILARANG CO*I")
-    runntxt(GG+"           INGAT COK ")
+    runntxt(GG+"           INGAT COK TOBAT DULU LAH..")
     time.sleep(1.5)
     print GG+"  √=============================================√"
-    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
+    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK 2023/2024.   ••••••|"
     print GG+"  √=============================================√"
     print WW+"  |            MOD BY: ADIATMA            |"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
     print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print Y+"  |             INSTAGRAM: Haccos7              |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
